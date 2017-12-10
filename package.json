@@ -1,0 +1,22 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "just as the name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy380196088/NodeJsStudy.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "zoey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zy380196088/NodeJsStudy/issues"
+  },
+  "homepage": "https://github.com/zy380196088/NodeJsStudy#readme"
+}
