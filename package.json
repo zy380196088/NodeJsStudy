@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/zy380196088/NodeJsStudy/issues"
   },
-  "homepage": "https://github.com/zy380196088/NodeJsStudy#readme"
+  "homepage": "https://github.com/zy380196088/NodeJsStudy#readme",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-route": "^3.2.0",
+    "koa-static": "^4.0.2"
+  }
 }
